@@ -1,10 +1,10 @@
-# Tagallbot
-telegram telegramtagallbot
+# Telegram Adder 
+telegram telegram Adder bot
 
 
 ## Dᴇᴘᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To-Heroku-blueviolet)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https://github.com/VipBoys777/Tagallbot)
+[![Deploy](https://img.shields.io/badge/Deploy%20To-Heroku-blueviolet)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https://github.com/bnyokluguna/telegram-scraper-adder-bot)
 
 
 ## Mᴀᴅᴇ Bʏ
